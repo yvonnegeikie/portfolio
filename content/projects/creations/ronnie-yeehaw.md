@@ -3,9 +3,9 @@
   "date": "2024-03-26T12:41:05-05:00",
   "image": "/portfolio/img/ronnie-yeehaw.png",
   "link": "https://yvonnegeikie.github.io/bootcamp/projects/week-6-project-ronnie-yeehaw/",
-  "description": "BOSH (Bosh Outer SHell) \"<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>\" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.",
+  "description": "Ronnie Yehaw is an Australian-raised, Montreal-based singer-songwriter who is also my sister. Ronnie plays in a band and produces her own music, performing at small and intimate gigs across Canada. I decided to create a demo site for her for my first ever project required in the bootcamp I was attending at the time...",
   "tags": ["HTML", "CSS", "JavaScript"],
   "featured":true
 }
 
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.
+Ronnie Yehaw is an Australian-raised, Montreal-based singer-songwriter who is also my sister. Ronnie plays in a band and produces her own music, performing at small and intimate gigs across Canada. I decided to create a demo site for her for my first ever project required in the bootcamp I was attending at the time. This is a custom-designed and hand-coded website where I can demonstrate my skills in HTML, CSS and JavaScript. At the time of its creation, Ronnie was recording an album, so was protective of the original material, but she graciously let me use some demo media for the purpose of this project. Ronnie wants it to be known that she had no artistic say in the UI (she hates it).

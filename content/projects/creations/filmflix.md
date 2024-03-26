@@ -3,9 +3,9 @@
   "date": "2024-03-25T12:41:05-05:00",
   "image": "/portfolio/img/filmflix.png",
   "link": "https://yvonnegeikie.github.io/bootcamp/projects/week-6-project-ronnie-yeehaw/",
-  "description": "BOSH (Bosh Outer SHell) \"<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>\" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.",
+  "description": "The Filmflix app was created for my week 12 bootcamp project. It’s purpose is to demonstrate my ability in SQL and Python. It is still a work in progress but I will incorporate Flask to add HTML, CSS and JavaScript features in a UI. See if you can find your favourite film!",
   "tags": ["Python", "SQL", "HTML", "CSS", "JavaScript"],
   "featured":true
 }
 
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.
+The Filmflix app was created for my week 12 bootcamp project. It’s purpose is to demonstrate my ability in SQL and Python. It is still a work in progress but I will incorporate Flask to add HTML, CSS and JavaScript features in a UI. See if you can find your favourite film!

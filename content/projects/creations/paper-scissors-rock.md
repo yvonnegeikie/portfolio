@@ -1,11 +1,11 @@
 {
   "title": "Paper Scissors Rock",
   "date": "2024-03-26T12:41:05-05:00",
-  "image": "/portfolio/img/scissors-paper-rock.png",
-  "link": "https://yvonnegeikie.github.io/bootcamp/projects/week-6-project-ronnie-yeehaw/",
-  "description": "BOSH (Bosh Outer SHell) \"<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>\" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.",
+  "image": "/portfolio/img/paper-scissors-rock.png",
+  "link": "https://yvonnegeikie.github.io/self-directed-learning/javascript/project-scissors-paper-rock/",
+  "description": "I had created the JaveScript for this well-known, two-player game in a Codecademy exercise. I thought it would make a fun project to reverse engineer the HTML and CSS to further demonstrate my skills in JavaScript. Play it and see if you can beat the computer!",
   "tags": ["HTML", "CSS", "JavaScript"],
   "featured":true
 }
 
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.
+I had created the JavaScript for this well-known, two-player game in a Codecademy exercise. I thought it would make a fun project to reverse engineer the HTML and CSS to further demonstrate my skills in JavaScript. Play it and see if you can beat the computer!

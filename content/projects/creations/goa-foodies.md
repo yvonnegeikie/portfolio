@@ -2,10 +2,10 @@
   "title": "Goa Foodies",
   "date": "2024-03-24T12:41:05-05:00",
   "image": "/portfolio/img/goa-foodies.png",
-  "link": "https://yvonnegeikie.github.io/bootcamp/projects/week-6-project-ronnie-yeehaw/",
-  "description": "BOSH (Bosh Outer SHell) \"<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>\" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.",
+  "link": "https://yvonnegeikie.github.io/bootcamp/projects/bootstrap-project-goa-foodies/my-bootstrap-project/",
+  "description": "Goa Foodies was created on the fly while experimenting with Bootstrap. I had recently been in Goa and decided to highlight my top three favourite dishes. I used AI to generate the blog post and the recipes (try at your own peril) as the purpose of this mini-project was to play around with the Bootstrap...",
   "tags": ["HTML", "CSS", "Bootstrap"],
   "featured":true
 }
 
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.
+Goa Foodies was created on the fly while experimenting with Bootstrap. I had recently been in Goa and decided to highlight my top three favourite dishes. I used AI to generate the blog post and the recipes (try at your own peril) as the purpose of this mini-project was to play around with the Bootstrap functions, tweaked with some HTML and CSS. I had a lot of fun with this and would like to explore more frameworks to work with.
