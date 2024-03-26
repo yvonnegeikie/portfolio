@@ -1,6 +1,6 @@
 baseURL = 'https://yvonnegeikie.github.io/portfolio/'
 languageCode = 'en-us'
-title = 'Yvonne Geikie | Frontend Developer'
+title = 'Yvonne Geikie | Software Engineer'
 
 theme = "hugo-resume"
 PygmentsCodeFences = true
