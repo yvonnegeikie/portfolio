@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Senior nurse turned developer.
+Nurse turned developer.
