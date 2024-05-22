@@ -1,4 +1,4 @@
-baseURL = 'https://yvonnegeikie.github.io/portfolio/'
+baseURL = 'https://www.yvonnegeikie.com'
 languageCode = 'en-us'
 title = 'Yvonne Geikie | Software Engineer'
 
@@ -16,7 +16,7 @@ firstName = "Yvonne"
 lastName = "Geikie"
 phone = "+447490199620"
 profileImage = "img/profile.webp"
-showQr = true
+showQr = false
 showContact = false
 sections = ["creations", "skills"]
 showEducation = true
