@@ -1,11 +1,11 @@
 [
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "HTML", "CSS", "Javascript","Python", "git"]
+      "skills":[ "HTML", "CSS", "Javascript","Python", "git", "Flask", "Hugo"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian", "GitHub", "MySQL"]
+      "skills":[ "Trello", "GitHub", "MySQL", "Replit", "VSCode", "Google Colab", "Balsamiq"]
   },
   {
       "grouping":"Data Management",
